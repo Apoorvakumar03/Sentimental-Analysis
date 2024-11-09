@@ -17,4 +17,5 @@ Pandas for data handling.
 Matplotlib or Seaborn for visualizing sentiment distribution and trends.
 This project provides a structured approach to understanding sentiment on social media, offering a foundation for further analysis and improvements in digital marketing and customer relations.
 ![image](https://github.com/user-attachments/assets/e62f02a6-fea7-4dcc-9046-ed09e99c444b)
-![output](https://github.com/user-attachments/assets/2c56fe68-7789-4653-97fc-c2f8d3b5049d)
+![image](https://github.com/user-attachments/assets/f87037ec-4b4a-4b92-8e28-95379ea4d9b8)
+
